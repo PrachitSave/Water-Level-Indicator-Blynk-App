@@ -1,0 +1,4 @@
+Ultasonic Sensor Trigger > Node MCU D5
+Ultasonic Sensor Echo > Node MCU D6
+Ultrasonic Sensor VCC > Node MCU 3V3 
+Ultrasonic Sensor GND > Node MCU GND
